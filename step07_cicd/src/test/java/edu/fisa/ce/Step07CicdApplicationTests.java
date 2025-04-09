@@ -9,7 +9,7 @@ class Step07CicdApplicationTests {
 
 	@Test
     public void testAddition() {
-        int result = 12 + 3;
+        int result = 123 + 3;
         System.out.println("비교 전");
         assertEquals(5, result);  // 성공: 5 == 5
         System.out.println("비교 후");
